@@ -1,0 +1,11 @@
+{
+    "auto_hide": false,
+    "always_on_top": true,
+    "bar_position": "right",
+    "default_style": {
+        "font": "Arial",
+        "font_size": 12,
+        "background_color": "#FFFFFF",
+        "text_color": "#000000"
+    }
+}
